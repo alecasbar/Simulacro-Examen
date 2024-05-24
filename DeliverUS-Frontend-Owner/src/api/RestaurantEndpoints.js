@@ -1,6 +1,6 @@
 import { get, post, put, destroy } from './helpers/ApiRequestsHelper'
 function getAll () {
-  return get('users/myrestaurants')
+  return get('restaurants')
 }
 
 function getDetail (id) {
@@ -23,4 +23,8 @@ function remove (id) {
   return destroy(`restaurants/${id}`)
 }
 
-export { getAll, getDetail, getRestaurantCategories, create, update, remove }
+function createRestaurantCategories(data) {
+  return post('restaurantCategories',data)
+}
+
+export { getAll, getDetail, getRestaurantCategories, create, update, remove, createRestaurantCategories}
