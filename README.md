@@ -1,4 +1,4 @@
-# IISSI-2 IS: Simulacro de examen de laboratorio
+# IISSI-2 IS: Categorías
 
 ## Enunciado
 
@@ -19,7 +19,7 @@ Realice todos los cambios necesarios en el proyecto de backend para implementar 
 ### Ejercicio 2
 
 Realice todos los cambios necesarios en el proyecto de frontend para implementar el nuevo requisito.
-
+![captura0](https://user-images.githubusercontent.com/19324988/155700850-bb7817fb-8818-440b-97cb-4fbd33787f20.png)
 ![captura1](https://user-images.githubusercontent.com/19324988/235651836-d57d9c7e-4b8d-46a2-9154-b414a7abf702.png)
 
 ![captura2](https://user-images.githubusercontent.com/19324988/235651849-4d03c7d9-f332-4952-8cbc-9fa5db4f97fb.png)
